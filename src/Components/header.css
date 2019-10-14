@@ -1,0 +1,23 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.header{
+  background-color:#26d0c9;
+  color:white;
+  height:90px
+}
+
+.header-list li{
+  list-style: none;
+  float:left;
+  padding:33px 20px;
+}
+
+.header-logo{
+  float: left;
+  font-size:36px;
+  padding:20px 40px;
+}
+
